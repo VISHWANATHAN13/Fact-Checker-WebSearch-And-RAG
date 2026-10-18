@@ -320,8 +320,9 @@ Fact_checker_with_RAG/
 |   |   |-- test_retrieval.py     # Semantic retrieval test
 |   |   |-- test_hybrid.py        # Hybrid retrieval test
 |   |
-|   |-- ui/
-|       |-- streamlit_app.py      # Alternate UI display helpers
+|   |-- main.py
+|   |-- streamlit_app.py      # Alternate UI display helpers
+|       
 ```
 
 ---
